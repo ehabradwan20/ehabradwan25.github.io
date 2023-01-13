@@ -1,0 +1,19 @@
+.im{
+    height: 280px;
+    width: 900px;
+    
+    margin-left: auto;
+  margin-right: auto;
+    background-image: url("IMG_1244.jpg");
+ background-size: 280px 300px ;
+background-repeat:no-repeat ;
+}
+
+.ma{
+    background-color: #19192e;
+}
+
+.x{
+    color: aliceblue;
+}
+.li{color: aqua;}
